@@ -1,0 +1,32 @@
+
+.colorz, .green-back{
+    color: rgb(2, 2, 2);
+}
+
+
+
+.colorz {
+    background-color: rgb(214, 122, 127);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+    color: rgb(22, 25, 189);
+    font-size: larger;
+}
+
+.green-back {
+    background-color: rgb(106, 235, 127);
+}
+
+.text1 {
+    font-size: small;
+}
+
+.text2, .text3 {
+    font-size: large;
+}
+
+.text3{
+    font-weight: bold;
+}
